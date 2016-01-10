@@ -7,6 +7,7 @@ public class A1 {
 		System.out.println("linyuhua  linyuhua1");
 		System.out.println("chenkang");
 		System.out.println("chenyaohesadasd");
+		System.out.println("chenkang");
 	}
 
 }
