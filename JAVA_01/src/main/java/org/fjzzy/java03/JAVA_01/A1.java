@@ -6,7 +6,7 @@ public class A1 {
 		// TODO Auto-generated method stub
 		System.out.println("linyuhua  dadadada");
 		System.out.println("chenkang");
-		System.out.println("chenyaohe");
+		System.out.println("chenyaohesadasd");
 	}
 
 }
