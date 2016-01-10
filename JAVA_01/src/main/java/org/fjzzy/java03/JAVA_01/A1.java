@@ -8,6 +8,7 @@ public class A1 {
 		System.out.println("linyuhua 2");
 		System.out.println("chenyaohesadasd");
 		System.out.println("chenkang");
+		System.out.println("chenkang");
 	}
 
 }
